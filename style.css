@@ -7,7 +7,7 @@
     border: 1px solid black
 }
 .mid1{
-    text-align: center;
+    text-align: center
 }
 
 .brain{
@@ -75,8 +75,10 @@
    display: flex;
 }
 .footer{
+    width: 1000px;
     text-align: center;
     border: 1px solid black
+    
     
 }
 
