@@ -74,6 +74,9 @@
 .fourtosix{
    display: flex;
 }
+.onetosix{
+    text-align: center;
+}
 .footer{
     width: 1000px;
     text-align: center;
